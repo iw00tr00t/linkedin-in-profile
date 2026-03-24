@@ -1,14 +1,14 @@
 # Avinash Kumar Thapa
 
-**Security Engineer & Penetration Tester** | AI/ML Security Researcher | Bug Bounty Hunter
+**Security Engineer & Penetration Tester** | Cloud Security | Application Security
 
 ## About
 
-Experienced security professional specializing in offensive security, web/API penetration testing, cloud security assessments, and AI/ML system security. Active bug bounty hunter with multiple CVE discoveries and responsible disclosures across enterprise platforms.
+Experienced security professional specializing in offensive security, web application penetration testing, cloud security assessments, and application security architecture. Active bug bounty hunter with multiple CVE discoveries and responsible disclosures across enterprise platforms.
 
-Currently focused on emerging attack surfaces in AI agent systems, LLM security, and agentic framework vulnerabilities.
+Currently focused on application security, API security testing, and securing cloud-native infrastructure.
 
-**Open to:** Senior Security Engineer, AI Security Researcher, Red Team Lead, Penetration Testing roles.
+**Open to:** Senior Security Engineer, Application Security Lead, Red Team Lead, Cloud Security Architect roles.
 
 ## Experience
 
@@ -16,7 +16,7 @@ Currently focused on emerging attack surfaces in AI agent systems, LLM security,
 *Independent / Freelance · 2020 – Present*
 - Authorized penetration tests for enterprise clients across fintech, SaaS, and healthcare
 - External/internal network pentesting, web application assessments, API security reviews
-- Cloud configuration audits (AWS, GCP, Azure) and AI/ML system red teaming
+- Cloud configuration audits (AWS, GCP, Azure)
 - Custom security tooling for automated vulnerability discovery
 
 ### Bug Bounty Researcher
@@ -25,16 +25,15 @@ Currently focused on emerging attack surfaces in AI agent systems, LLM security,
 - Focus: authentication bypass, IDOR, SSRF, injection, business logic flaws
 - Multiple hall-of-fame listings
 
-### AI Security Researcher
-*Independent · 2024 – Present*
-- Indirect prompt injection in multi-tool AI agents
-- Memory poisoning across conversation sessions
-- Tool-use abuse in autonomous systems
-- Voice-channel injection via STT pipelines
+### Security Consultant
+*Various Enterprise Clients · 2019 – 2022*
+- Security architecture reviews and threat modeling
+- SOC 2 Type II compliance and DevSecOps pipeline implementation
+- Secure code review and engineering team training
 
 ## Skills
 
-`Penetration Testing` `Web App Security` `API Security` `Cloud Security (AWS/GCP/Azure)` `OWASP` `Burp Suite` `Python` `Shell Scripting` `Red Teaming` `Threat Modeling` `AI/ML Security` `LLM Security` `Prompt Injection` `Kubernetes Security` `Network Security` `CVE Research` `Reverse Engineering`
+`Penetration Testing` `Web App Security` `API Security` `Cloud Security (AWS/GCP/Azure)` `OWASP` `Burp Suite` `Python` `Shell Scripting` `Red Teaming` `Threat Modeling` `Kubernetes Security` `Network Security` `DevSecOps` `CVE Research` `Reverse Engineering`
 
 ## Certifications
 
